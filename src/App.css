@@ -1,0 +1,12 @@
+/* background-color is just a PLACEHOLDER */
+/* Change background-color to background-image of lined paper */
+/* Change font to a "handwriting" style */
+
+.tdList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(252, 250, 150, 0.986);
+  margin-top: 100px;
+  color: aliceblue;
+}
